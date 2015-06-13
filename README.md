@@ -1,2 +1,2 @@
-# Manual-Frequency-Analysis-Tool
+# Manual Frequency Analysis Tool
 These functions can be used to analyze monoalphabetic ciphers.
